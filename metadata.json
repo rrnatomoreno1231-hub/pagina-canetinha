@@ -1,0 +1,6 @@
+{
+  "name": "Kit Digital Lápis Personalizados para Professoras",
+  "description": "Mais de 600 modelos prontos de lápis e canetas personalizados para professoras editarem, imprimirem e venderem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
